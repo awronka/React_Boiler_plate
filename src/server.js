@@ -1,0 +1,1 @@
+import {setEntries, INITIAL_STATE} from './core';
